@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f76001ab-cc92-40c9-8b85-546211475856" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Logical_operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if_statements.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,17 +37,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Logical_operators.executor": "Run",
     "Python.Math_functions.executor": "Run",
     "Python.Multiple_assigments.executor": "Run",
     "Python.String methods.executor": "Run",
     "Python.String_slicing.executor": "Run",
     "Python.Type_casting.executor": "Run",
     "Python.User_input.executor": "Run",
+    "Python.if_statements.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
   <component name="SharedIndexes">
