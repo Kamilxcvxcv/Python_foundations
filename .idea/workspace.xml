@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f76001ab-cc92-40c9-8b85-546211475856" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/indexing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Variables.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Variables.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +48,7 @@
     "Python.String_slicing.executor": "Run",
     "Python.Type_casting.executor": "Run",
     "Python.User_input.executor": "Run",
+    "Python.functions.executor": "Run",
     "Python.if_statements.executor": "Run",
     "Python.indexing.executor": "Run",
     "Python.nested_loops.executor": "Run",
