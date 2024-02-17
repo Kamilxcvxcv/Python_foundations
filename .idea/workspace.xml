@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f76001ab-cc92-40c9-8b85-546211475856" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Keyword_arguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nested_function_calls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_format.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variable_scope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kwargs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/return_statements.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,18 +46,25 @@
     "Python.Break_continues_pass.executor": "Run",
     "Python.Dictionaries.executor": "Run",
     "Python.For_loops.executor": "Run",
+    "Python.Keyword_arguments.executor": "Run",
     "Python.Lists.executor": "Run",
     "Python.Logical_operators.executor": "Run",
     "Python.Math_functions.executor": "Run",
     "Python.Multiple_assigments.executor": "Run",
+    "Python.Nested_function_calls.executor": "Run",
     "Python.String methods.executor": "Run",
+    "Python.String_format.executor": "Run",
     "Python.String_slicing.executor": "Run",
     "Python.Type_casting.executor": "Run",
     "Python.User_input.executor": "Run",
+    "Python.Variable_scope.executor": "Run",
+    "Python.args.executor": "Run",
     "Python.functions.executor": "Run",
     "Python.if_statements.executor": "Run",
     "Python.indexing.executor": "Run",
+    "Python.kwargs.executor": "Run",
     "Python.nested_loops.executor": "Run",
+    "Python.return_statements.executor": "Run",
     "Python.sets.executor": "Run",
     "Python.tuples.executor": "Run",
     "Python.variables.executor": "Run",
