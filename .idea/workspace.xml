@@ -4,14 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f76001ab-cc92-40c9-8b85-546211475856" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Keyword_arguments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nested_function_calls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String_format.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Variable_scope.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kwargs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/return_statements.py" afterDir="false" />
+    <list default="true" id="f76001ab-cc92-40c9-8b85-546211475856" name="Changes" comment="lessons done to string format">
+      <change afterPath="$PROJECT_DIR$/Copy_a_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Delete_a_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exception_handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Move_a_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Read_a_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Write_a_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +32,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kamilxcvxcv&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1346a4e4-2b71-4591-942c-ef5d584cc937" />
+        <option name="url" value="https://github.com/Kamilxcvxcv/Python_foundations.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -42,28 +59,37 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.2D_lists.executor": "Run",
     "Python.Break_continues_pass.executor": "Run",
+    "Python.Copy_a_file.executor": "Run",
+    "Python.Delete_a_file.executor": "Run",
     "Python.Dictionaries.executor": "Run",
+    "Python.Exception_handling.executor": "Run",
     "Python.For_loops.executor": "Run",
     "Python.Keyword_arguments.executor": "Run",
     "Python.Lists.executor": "Run",
     "Python.Logical_operators.executor": "Run",
     "Python.Math_functions.executor": "Run",
+    "Python.Move_a_file.executor": "Run",
     "Python.Multiple_assigments.executor": "Run",
     "Python.Nested_function_calls.executor": "Run",
+    "Python.Read_a_file.executor": "Run",
     "Python.String methods.executor": "Run",
     "Python.String_format.executor": "Run",
     "Python.String_slicing.executor": "Run",
     "Python.Type_casting.executor": "Run",
     "Python.User_input.executor": "Run",
     "Python.Variable_scope.executor": "Run",
+    "Python.Write_a_file.executor": "Run",
     "Python.args.executor": "Run",
+    "Python.file_detection.executor": "Run",
     "Python.functions.executor": "Run",
     "Python.if_statements.executor": "Run",
     "Python.indexing.executor": "Run",
     "Python.kwargs.executor": "Run",
     "Python.nested_loops.executor": "Run",
+    "Python.random_numbers.executor": "Run",
     "Python.return_statements.executor": "Run",
     "Python.sets.executor": "Run",
     "Python.tuples.executor": "Run",
@@ -91,6 +117,20 @@
       <option name="presentableId" value="Default" />
       <updated>1707411072865</updated>
     </task>
+    <task id="LOCAL-00001" summary="lessons done to string format">
+      <option name="closed" value="true" />
+      <created>1708193986044</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708193986045</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="lessons done to string format" />
+    <option name="LAST_COMMIT_MESSAGE" value="lessons done to string format" />
   </component>
 </project>
