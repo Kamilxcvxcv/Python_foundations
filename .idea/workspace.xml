@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f76001ab-cc92-40c9-8b85-546211475856" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2D_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Break_continues_pass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionaries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For_loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nested_loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock_paper_scissors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +45,7 @@
     "Python.Logical_operators.executor": "Run",
     "Python.Math_functions.executor": "Run",
     "Python.Multiple_assigments.executor": "Run",
+    "Python.Rock_paper_scissors.executor": "Run",
     "Python.String methods.executor": "Run",
     "Python.String_slicing.executor": "Run",
     "Python.Type_casting.executor": "Run",
@@ -65,7 +59,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "editor.preferences.appearance"
+    "settings.editor.selected.configurable": "preferences.sourceCode"
   }
 }]]></component>
   <component name="SharedIndexes">
