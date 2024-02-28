@@ -4,17 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f76001ab-cc92-40c9-8b85-546211475856" name="Changes" comment="lessons done to string format">
-      <change afterPath="$PROJECT_DIR$/Copy_a_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Delete_a_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exception_handling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Move_a_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Read_a_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Write_a_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/copy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_detection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test2.txt" afterDir="false" />
+    <list default="true" id="f76001ab-cc92-40c9-8b85-546211475856" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_02_2024,_13_29_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_02_2024__13_29__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Abstract_classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class_variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class_variables_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Duck_typing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Method_chaining.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Method_overriding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multilevel_inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object_oriented_programming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Objects_as_arguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Super_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Walrus_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multiple_inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Variables.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Variables.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,20 +41,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Kamilxcvxcv&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="1346a4e4-2b71-4591-942c-ef5d584cc937" />
-        <option name="url" value="https://github.com/Kamilxcvxcv/Python_foundations.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -59,38 +54,35 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.2D_lists.executor": "Run",
+    "Python.Abstract_classes.executor": "Run",
     "Python.Break_continues_pass.executor": "Run",
-    "Python.Copy_a_file.executor": "Run",
-    "Python.Delete_a_file.executor": "Run",
+    "Python.Car.executor": "Run",
+    "Python.Class_variables.executor": "Run",
+    "Python.Class_variables_main.executor": "Run",
     "Python.Dictionaries.executor": "Run",
-    "Python.Exception_handling.executor": "Run",
+    "Python.Duck_typing.executor": "Run",
     "Python.For_loops.executor": "Run",
-    "Python.Keyword_arguments.executor": "Run",
+    "Python.Inheritance.executor": "Run",
     "Python.Lists.executor": "Run",
     "Python.Logical_operators.executor": "Run",
     "Python.Math_functions.executor": "Run",
-    "Python.Move_a_file.executor": "Run",
+    "Python.Method_chaining.executor": "Run",
+    "Python.Method_overriding.executor": "Run",
+    "Python.Multilevel_inheritance.executor": "Run",
     "Python.Multiple_assigments.executor": "Run",
-    "Python.Nested_function_calls.executor": "Run",
-    "Python.Read_a_file.executor": "Run",
+    "Python.Object_oriented_programming.executor": "Run",
+    "Python.Objects_as_arguments.executor": "Run",
+    "Python.Rock_paper_scissors.executor": "Run",
     "Python.String methods.executor": "Run",
-    "Python.String_format.executor": "Run",
     "Python.String_slicing.executor": "Run",
+    "Python.Super_function.executor": "Run",
     "Python.Type_casting.executor": "Run",
     "Python.User_input.executor": "Run",
-    "Python.Variable_scope.executor": "Run",
-    "Python.Write_a_file.executor": "Run",
-    "Python.args.executor": "Run",
-    "Python.file_detection.executor": "Run",
-    "Python.functions.executor": "Run",
     "Python.if_statements.executor": "Run",
-    "Python.indexing.executor": "Run",
-    "Python.kwargs.executor": "Run",
+    "Python.multiple_inheritance.executor": "Run",
     "Python.nested_loops.executor": "Run",
-    "Python.random_numbers.executor": "Run",
-    "Python.return_statements.executor": "Run",
+    "Python.quiz_game.executor": "Run",
     "Python.sets.executor": "Run",
     "Python.tuples.executor": "Run",
     "Python.variables.executor": "Run",
@@ -98,13 +90,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "settings.editor.selected.configurable": "preferences.sourceCode"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
       </set>
     </attachedChunks>
   </component>
@@ -117,20 +109,6 @@
       <option name="presentableId" value="Default" />
       <updated>1707411072865</updated>
     </task>
-    <task id="LOCAL-00001" summary="lessons done to string format">
-      <option name="closed" value="true" />
-      <created>1708193986044</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1708193986045</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="lessons done to string format" />
-    <option name="LAST_COMMIT_MESSAGE" value="lessons done to string format" />
   </component>
 </project>

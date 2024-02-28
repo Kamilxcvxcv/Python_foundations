@@ -1,0 +1,83 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"f76001ab-cc92-40c9-8b85-546211475856\" name=\"Changes\" comment=\"\">\n      <change afterPath=\"$PROJECT_DIR$/Rock_paper_scissors.py\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Python Script\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 0\n}</component>\n  <component name=\"ProjectId\" id=\"2c5p0jth3t3HG4XeCJgOjplLSVy\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"Python.2D_lists.executor\": \"Run\",\n    \"Python.Break_continues_pass.executor\": \"Run\",\n    \"Python.Dictionaries.executor\": \"Run\",\n    \"Python.For_loops.executor\": \"Run\",\n    \"Python.Lists.executor\": \"Run\",\n    \"Python.Logical_operators.executor\": \"Run\",\n    \"Python.Math_functions.executor\": \"Run\",\n    \"Python.Multiple_assigments.executor\": \"Run\",\n    \"Python.Rock_paper_scissors.executor\": \"Run\",\n    \"Python.String methods.executor\": \"Run\",\n    \"Python.String_slicing.executor\": \"Run\",\n    \"Python.Type_casting.executor\": \"Run\",\n    \"Python.User_input.executor\": \"Run\",\n    \"Python.if_statements.executor\": \"Run\",\n    \"Python.nested_loops.executor\": \"Run\",\n    \"Python.sets.executor\": \"Run\",\n    \"Python.tuples.executor\": \"Run\",\n    \"Python.variables.executor\": \"Run\",\n    \"Python.while_loops.executor\": \"Run\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"git-widget-placeholder\": \"main\",\n    \"settings.editor.selected.configurable\": \"preferences.sourceCode\"\n  }\n}]]></component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"f76001ab-cc92-40c9-8b85-546211475856\" name=\"Changes\" comment=\"\" />\n      <created>1707411072865</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1707411072865</updated>\n    </task>\n    <servers />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 3717b43db33be464233e7a5cf84f1a50d247ab92)
++++ b/.idea/workspace.xml	(date 1708950560869)
+@@ -4,11 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="f76001ab-cc92-40c9-8b85-546211475856" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/Rock_paper_scissors.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-    </list>
++    <list default="true" id="f76001ab-cc92-40c9-8b85-546211475856" name="Changes" comment="" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -35,33 +31,33 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Python.2D_lists.executor": "Run",
+-    "Python.Break_continues_pass.executor": "Run",
+-    "Python.Dictionaries.executor": "Run",
+-    "Python.For_loops.executor": "Run",
+-    "Python.Lists.executor": "Run",
+-    "Python.Logical_operators.executor": "Run",
+-    "Python.Math_functions.executor": "Run",
+-    "Python.Multiple_assigments.executor": "Run",
+-    "Python.Rock_paper_scissors.executor": "Run",
+-    "Python.String methods.executor": "Run",
+-    "Python.String_slicing.executor": "Run",
+-    "Python.Type_casting.executor": "Run",
+-    "Python.User_input.executor": "Run",
+-    "Python.if_statements.executor": "Run",
+-    "Python.nested_loops.executor": "Run",
+-    "Python.sets.executor": "Run",
+-    "Python.tuples.executor": "Run",
+-    "Python.variables.executor": "Run",
+-    "Python.while_loops.executor": "Run",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "main",
+-    "settings.editor.selected.configurable": "preferences.sourceCode"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Python.2D_lists.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Break_continues_pass.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Dictionaries.executor&quot;: &quot;Run&quot;,
++    &quot;Python.For_loops.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Lists.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Logical_operators.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Math_functions.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Multiple_assigments.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Rock_paper_scissors.executor&quot;: &quot;Run&quot;,
++    &quot;Python.String methods.executor&quot;: &quot;Run&quot;,
++    &quot;Python.String_slicing.executor&quot;: &quot;Run&quot;,
++    &quot;Python.Type_casting.executor&quot;: &quot;Run&quot;,
++    &quot;Python.User_input.executor&quot;: &quot;Run&quot;,
++    &quot;Python.if_statements.executor&quot;: &quot;Run&quot;,
++    &quot;Python.nested_loops.executor&quot;: &quot;Run&quot;,
++    &quot;Python.sets.executor&quot;: &quot;Run&quot;,
++    &quot;Python.tuples.executor&quot;: &quot;Run&quot;,
++    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
++    &quot;Python.while_loops.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
