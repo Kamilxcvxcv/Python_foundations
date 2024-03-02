@@ -5,26 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f76001ab-cc92-40c9-8b85-546211475856" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_02_2024,_13_29_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_02_2024__13_29__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract_classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class_variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class_variables_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Duck_typing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Method_chaining.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Method_overriding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multilevel_inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object_oriented_programming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Objects_as_arguments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Super_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Walrus_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiple_inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Higher_order_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_to_variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Variables.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Variables.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Walrus_operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Walrus_operator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +50,7 @@
     "Python.Dictionaries.executor": "Run",
     "Python.Duck_typing.executor": "Run",
     "Python.For_loops.executor": "Run",
+    "Python.Higher_order_functions.executor": "Run",
     "Python.Inheritance.executor": "Run",
     "Python.Lists.executor": "Run",
     "Python.Logical_operators.executor": "Run",
@@ -79,7 +67,10 @@
     "Python.Super_function.executor": "Run",
     "Python.Type_casting.executor": "Run",
     "Python.User_input.executor": "Run",
+    "Python.Walrus_operator.executor": "Run",
+    "Python.functions_to_variables.executor": "Run",
     "Python.if_statements.executor": "Run",
+    "Python.lambda.executor": "Run",
     "Python.multiple_inheritance.executor": "Run",
     "Python.nested_loops.executor": "Run",
     "Python.quiz_game.executor": "Run",
@@ -90,7 +81,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "preferences.sourceCode"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="SharedIndexes">
